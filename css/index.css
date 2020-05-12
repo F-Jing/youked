@@ -87,7 +87,7 @@
     font-size: 20px;
     font-family: PingFangSC-Regular, PingFang SC;
     font-weight: 400;
-    color: rgba(46, 47, 85, 1);
+    color: rgba(46, 47, 85, .5);
     line-height: 34px;
 }
 
@@ -285,7 +285,7 @@
     font-size: 18px;
     font-family: PingFangSC-Regular, PingFang SC;
     font-weight: 400;
-    color: rgba(46, 47, 85, 1);
+    color: rgba(46, 47, 85, .5);
     line-height: 34px;
     margin-top: 35px;
 }
@@ -321,7 +321,7 @@
     font-size: 18px;
     font-family: PingFangSC-Regular, PingFang SC;
     font-weight: 400;
-    color: rgba(46, 47, 85, 1);
+    color: rgba(46, 47, 85, .5);
     line-height: 34px;
     margin-top: 22px;
 }
@@ -373,6 +373,7 @@
     color: #2E2F55;
     line-height: 34px;
     margin-top: 35px;
+    opacity: 50%;
 }
 
 .mainer-four-container {
@@ -479,7 +480,7 @@
     font-size: 16px;
     font-family: PingFangSC-Regular, PingFang SC;
     font-weight: 400;
-    color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, .5);
     line-height: 65px;
     text-align: center;
     
